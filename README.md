@@ -8,16 +8,16 @@ Our proposed road rutting dataset is publically available. It can be accessed us
 Saha, Poonam Kumari; Arya, Deeksha; Kumar, Ashutosh; Maeda, Hiroya; Sekimoto, Yoshihide (2022), “RoadRuttingDatasetSekilab”, Mendeley Data, V1, doi: 10.17632/v8mbnvx8pv.1
 ```
 
-For more information on the experiments conducted on this dataset, please refer to the article at https://www.researchgate.net/publication/363920770_Road_Rutting_Detection_using_Deep_Learning_on_Images.
+For more information on the experiments conducted on this dataset, please refer to the [article](https://www.researchgate.net/publication/363920770_Road_Rutting_Detection_using_Deep_Learning_on_Images) available [here](https://www.researchgate.net/publication/363920770_Road_Rutting_Detection_using_Deep_Learning_on_Images).
 
 ## Citations
 If you use or find our dataset and/or article useful, please cite the following:
 
 ```
-1. Data: 
+1. Dataset: 
     Saha, Poonam Kumari; Arya, Deeksha; Kumar, Ashutosh; Maeda, Hiroya; Sekimoto, Yoshihide (2022), “RoadRuttingDatasetSekilab”, Mendeley Data, V1, doi: 10.17632/v8mbnvx8pv.1
 
-2. Research paper: 
+2. arXiv Pre-print: 
     @article{saha2022road,
     title={Road Rutting Detection using Deep Learning on Images},
     author={Saha, Poonam Kumari and Arya, Deeksha and Kumar, Ashutosh and Maeda, Hiroya and Sekimoto, Yoshihide},
