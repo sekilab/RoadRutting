@@ -3,7 +3,7 @@
 ## Dataset
 Road rutting is a severe road distress that can cause premature failure of road incurring early and costly maintenance costs. Research on road damage detection using image processing techniques and deep learning is being actively conducted in the past few years. However, these researches are mostly focused on detection of cracks, potholes, and their variants. Very few research has been done on the detection of road rutting. This dataset presents a novel road rutting dataset comprising of 949 images and provides both object level and pixel level annotations. 
 
-Our proposed road rutting dataset is publically available. It can be accessed using the DOI mentioned below and can be downloaded from there:
+Our proposed road rutting dataset publicly available. It can be accessed using the DOI mentioned below and can be downloaded from there:
 ```
 Saha, Poonam Kumari; Arya, Deeksha; Kumar, Ashutosh; Maeda, Hiroya; Sekimoto, Yoshihide (2022), “RoadRuttingDatasetSekilab”, Mendeley Data, V1, doi: 10.17632/v8mbnvx8pv.1
 ```
